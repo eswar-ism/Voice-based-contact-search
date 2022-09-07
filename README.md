@@ -1,6 +1,6 @@
 # Voice-based-contact-search
 
-===========================  SP Final Project - Speech Based Contact List   =============================
+SP Final Project - Speech Based Contact List   
 
 To run : Load the Project  , Build and Run . 
 
